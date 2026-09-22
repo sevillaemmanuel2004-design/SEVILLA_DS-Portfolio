@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-EY6UQX5S.js";import"/build/_shared/chunk-QDBLL4C4.js";import"/build/_shared/chunk-DOYQ5WN6.js";import"/build/_shared/chunk-RAQ24GF6.js";export default a();
+import{a}from"/SEVILLA_DS-Portfolio/build/_shared/chunk-EY6UQX5S.js";import"/SEVILLA_DS-Portfolio/build/_shared/chunk-QDBLL4C4.js";import"/SEVILLA_DS-Portfolio/build/_shared/chunk-DOYQ5WN6.js";import"/SEVILLA_DS-Portfolio/build/_shared/chunk-RAQ24GF6.js";export default a();
