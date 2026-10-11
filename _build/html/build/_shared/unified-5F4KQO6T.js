@@ -1,1 +1,1 @@
-import{b as a}from"/https://github.com/sevillaemmanuel2004-design/SEVILLA_DS-Portfolio.git/build/_shared/chunk-EZGS6HXP.js";import"/https://github.com/sevillaemmanuel2004-design/SEVILLA_DS-Portfolio.git/build/_shared/chunk-TBCV2LPN.js";import"/https://github.com/sevillaemmanuel2004-design/SEVILLA_DS-Portfolio.git/build/_shared/chunk-RAQ24GF6.js";export{a as unified};
+import{b as a}from"/myst_assets_folder/_shared/chunk-EZGS6HXP.js";import"/myst_assets_folder/_shared/chunk-TBCV2LPN.js";import"/myst_assets_folder/_shared/chunk-RAQ24GF6.js";export{a as unified};

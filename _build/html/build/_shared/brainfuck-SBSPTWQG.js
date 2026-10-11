@@ -1,1 +1,1 @@
-import{a}from"/https://github.com/sevillaemmanuel2004-design/SEVILLA_DS-Portfolio.git/build/_shared/chunk-KOHNVAGL.js";import"/https://github.com/sevillaemmanuel2004-design/SEVILLA_DS-Portfolio.git/build/_shared/chunk-RAQ24GF6.js";export default a();
+import{a}from"/https://sevillaemmanuel2004-design.github.io/SEVILLA_DS-Portfolio//build/_shared/chunk-KOHNVAGL.js";import"/https://sevillaemmanuel2004-design.github.io/SEVILLA_DS-Portfolio//build/_shared/chunk-RAQ24GF6.js";export default a();

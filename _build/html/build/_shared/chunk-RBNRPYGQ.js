@@ -1,4 +1,4 @@
-import{b as e}from"/https://github.com/sevillaemmanuel2004-design/SEVILLA_DS-Portfolio.git/build/_shared/chunk-DYFJVR7X.js";var l=e(()=>`
+import{b as e}from"/https://sevillaemmanuel2004-design.github.io/SEVILLA_DS-Portfolio//build/_shared/chunk-DYFJVR7X.js";var l=e(()=>`
   /* Font Awesome icon styling - consolidated */
   .label-icon {
     display: inline-block;

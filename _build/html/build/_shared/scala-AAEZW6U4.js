@@ -1,1 +1,1 @@
-import{a}from"/https://github.com/sevillaemmanuel2004-design/SEVILLA_DS-Portfolio.git/build/_shared/chunk-PGFMX5VE.js";import"/https://github.com/sevillaemmanuel2004-design/SEVILLA_DS-Portfolio.git/build/_shared/chunk-JZMDU4WS.js";import"/https://github.com/sevillaemmanuel2004-design/SEVILLA_DS-Portfolio.git/build/_shared/chunk-RAQ24GF6.js";export default a();
+import{a}from"/myst_assets_folder/_shared/chunk-PGFMX5VE.js";import"/myst_assets_folder/_shared/chunk-JZMDU4WS.js";import"/myst_assets_folder/_shared/chunk-RAQ24GF6.js";export default a();

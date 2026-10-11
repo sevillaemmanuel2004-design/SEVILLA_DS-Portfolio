@@ -17,6 +17,7 @@ project:
     - file: Implementation_of_Logistic_Regression_and_LinearSVM.ipynb
     - file: Sevilla_DataMining.ipynb
     - file: TSA_G3_ausbeer_analysis.ipynb
+    - file: SEVILLA_tom_jerry_image_recognition_model_comparison
     
 site:
   template: book-theme

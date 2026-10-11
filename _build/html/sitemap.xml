@@ -22,4 +22,7 @@
   <url>
     <loc>http://localhost:3000/tsa-g3-ausbeer-analysis</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/sevilla-tom-jerry-image-recognition-model-comparis</loc>
+  </url>
 </urlset>
