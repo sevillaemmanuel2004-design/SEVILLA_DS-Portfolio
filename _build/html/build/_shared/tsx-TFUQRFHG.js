@@ -1,1 +1,1 @@
-import{a}from"/SEVILLA_DS-Portfolio/build/_shared/chunk-CPC5XKYF.js";import"/SEVILLA_DS-Portfolio/build/_shared/chunk-IZYYG5VI.js";import"/SEVILLA_DS-Portfolio/build/_shared/chunk-QAB7VALF.js";import"/SEVILLA_DS-Portfolio/build/_shared/chunk-RAQ24GF6.js";export default a();
+import{a}from"/myst_assets_folder/_shared/chunk-CPC5XKYF.js";import"/myst_assets_folder/_shared/chunk-IZYYG5VI.js";import"/myst_assets_folder/_shared/chunk-QAB7VALF.js";import"/myst_assets_folder/_shared/chunk-RAQ24GF6.js";export default a();
