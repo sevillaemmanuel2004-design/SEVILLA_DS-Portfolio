@@ -5,9 +5,6 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/dma-eda-eman</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/g3-case-study-timeseries-fixed</loc>
   </url>
   <url>
@@ -17,12 +14,30 @@
     <loc>http://localhost:3000/implementation-of-logistic-regression-and-linearsv</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/intro</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/sevilla-datamining</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/tsa-g3-ausbeer-analysis</loc>
+    <loc>http://localhost:3000/sevilla-laboratory-task-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sevilla-laboratory-task-3</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sevilla-laboratory-task-4</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sevilla-laboratory-task-5</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sevilla-laboratory-task-6</loc>
   </url>
   <url>
     <loc>http://localhost:3000/sevilla-tom-jerry-image-recognition-model-comparis</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/tsa-g3-ausbeer-analysis</loc>
   </url>
 </urlset>
